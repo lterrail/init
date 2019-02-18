@@ -1,0 +1,3 @@
+#Quelle commande permet d’ajouter un utilisateur local supplémentaire ?
+
+sudo adduser identifiant

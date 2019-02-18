@@ -1,0 +1,8 @@
+#Identifiez et affichez les caractéristiques de l’interface Ethernet :
+#(a) Indiquez l’adresse de Broadcast
+
+ifconfig en0 | awk '/broadcast/ {print $6}'
+
+#(b) Indiquez toutes les adresses IP qui font partie du même sous-réseau
+
+arp -a | awk '/fr/ {print $2}' | tr -d '(' | tr -d ')'

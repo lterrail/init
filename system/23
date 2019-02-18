@@ -1,0 +1,5 @@
+#Expliquez comment se connecter en tant que ce nouvelle utilisateur. (En session
+graphique et en session ssh)
+
+Graphique: sudo adduser user_name, puis login via GUI
+SSH: user@127.0.0.1

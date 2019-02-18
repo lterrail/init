@@ -1,0 +1,3 @@
+#Lancez en background la commande tail -f /var/log/syslog
+
+ajouter & à la fin d'une commande.

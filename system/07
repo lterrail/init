@@ -1,0 +1,5 @@
+#Déterminez le PID du service SSHD
+
+cat /var/run/sshd.pid
+#ps a
+#ps aux

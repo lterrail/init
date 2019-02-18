@@ -1,0 +1,7 @@
+#Récupérez le path complet du fichier dans lequel est écrit l’adresse IP du
+#serveur DNS que vous utilisez
+
+#Deduction
+#cat /etc/resolv.conf (si on fait ls -l on voit un lien symbolique vers
+#cat /var/run/resolv.conf).
+#Ce fichier contient les deux adresses IP du serveur DNS utilisé.

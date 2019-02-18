@@ -1,0 +1,4 @@
+#Quel est le fichier contenant les entrées locales DNS ?
+
+#Deduction
+#On peut trouver toutes les entrées locales dans /etc/hosts.

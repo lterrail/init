@@ -1,0 +1,7 @@
+#Trouver chez quel hébergeur est le site de Slash16
+
+#Deduction
+#whois slash16.org
+#Amazon web service
+#whois affiche toutes les informations du domaine.
+#man whois
