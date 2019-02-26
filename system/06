@@ -1,3 +1,4 @@
 #Donnez une commande pour redémarrer le service SSH
 
-sh /etc/init.d/ssh restart // !!!!!
+sh /etc/init.d/ssh restart
+#sudo systemctl restart ssh

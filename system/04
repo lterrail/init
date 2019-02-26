@@ -1,5 +1,5 @@
 #Quelle commande donne le temps depuis lequel votre système à été démarré la
 dernière fois ?
 
-w
+uptime -p
 #uptime permet de savoir combien de temps le VM tourne
